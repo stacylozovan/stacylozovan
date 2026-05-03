@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Anastasiia 👋
 
-<!--
-**stacylozovan/stacylozovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps & Full-Stack Developer focused on building reliable, cloud-ready systems.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- AWS, Docker, Terraform
+- CI/CD & Cloud Infrastructure
+- Backend & Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Portfolio
+👉 https://stacylozovan.github.io/portfolio/
+
+## 📌 Projects
+- Chat Server & Client (Java, networking)
+- DevOps Portfolio (React, Vite)
+- Full-stack applications & automation workflows
+
+## 💬 About me
+I enjoy building systems that are clear, maintainable and production-ready — from the first line of code to deployment.
